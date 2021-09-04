@@ -1,5 +1,5 @@
 - 👋 Olá, eu me chamo Marcelo souza.
-- 👀 eu gosto de tudo que seja do mundo da tecnologia, mas o meu foco é programação mobile.
+- 👀 Eu gosto de tudo que seja do mundo da tecnologia, mas o meu foco é programação mobile.
 - 🌱 Atualmente estou estudando Java.
 - 💞️ Eu quero com comtribir aqueles que estão iniciando agora e tem pouco conhecimento.
 - 📫 Email: marcelosouzadss@gmail.com ou WhatsApp: (73) 99987-8174
