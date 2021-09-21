@@ -1,7 +1,7 @@
 - 👋 Olá, eu me chamo Marcelo souza.
 - 👀 Eu gosto de tudo que seja do mundo da tecnologia, mas o meu foco é programação mobile.
 - 🌱 Atualmente estou estudando Java.
-- 💞️ Eu quero poder comtribir principalmente em projetos Android.
+- 💞️ Eu quero poder comtribuir principalmente em projetos Android.
 - 📫 Email: marcelosouzadss@gmail.com ou WhatsApp: (73) 99987-8174
 
 Sempre em busca de melhorar minhas abilidades em busca de ser o melhor possivel.
